@@ -24,11 +24,8 @@
 ###### 삼성 청년 SW 아카데미 7기
 
 
-### 💻 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpfls0506)](https://solved.ac/gpfls0506/)
+### 💻 Solved.ac & Most Used Languages
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpfls0506)](https://solved.ac/gpfls0506/)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyerin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyerin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- </div> -->
