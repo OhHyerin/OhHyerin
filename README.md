@@ -20,8 +20,9 @@
   
   
 ### 🎓 Educations
-###### 세종대학교 소프트웨어학과 졸업
-###### 삼성 청년 SW 아카데미 7기
+세종대학교 소프트웨어학과 졸업
+
+삼성 청년 SW 아카데미 7기
 
 
 ### 💻 Solved.ac & Most Used Languages
